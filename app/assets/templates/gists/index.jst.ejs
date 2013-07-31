@@ -1,0 +1,7 @@
+<% gists.each(function(gist) { %>
+  <li>
+    <a href="#/<%= gist.escape("id") %>" ><%= gist.escape("title") %></a>
+  </li>
+<% }) %>
+
+<a href="#/new">New Gist</a>

@@ -1,6 +1,10 @@
-# Sessions Template
+# Gist Light
+A light clone of github's gist feature using Backbone.js
 
-This should only be used once you are comfortable with creating an authentication and authorization system yourself.
-This app is purely to save time on projects where writing out a login system becomes tedious.
+= Tech Used
+Rails
+Javascript
+
+
 
 
